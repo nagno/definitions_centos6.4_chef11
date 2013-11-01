@@ -8,4 +8,4 @@ Modifications:
 * Ruby install file is completely replaced, now it is downloads a pre-built Ruby 1.9.3 package for Centos 6.4 x86_64
 * GB locale
 * UK keyboard layout
-* Installed NFS Utils package
+* Install NFS Utils package
